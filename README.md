@@ -12,6 +12,7 @@ The setup includes
 
 ## Installation
 ```bash
+mkdir src
 docker compose up
 ```
 
